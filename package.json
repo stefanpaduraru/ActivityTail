@@ -1,0 +1,15 @@
+{
+  "name": "ActivityTail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "socket.io": "^2.1.1",
+	"stream": "^0.0.2",
+	"read-last-lines": "^1.6.0"
+  },
+  "keywords": [],
+  "author": "Stefan Paduraru for Autototal AD",
+  "license": "ISC"
+}
